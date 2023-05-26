@@ -1,0 +1,7 @@
+name: Egganators
+version: '${project.version}'
+main: com.jasonplayzs20.egganators.Egganators
+api-version: 1.19
+commands:
+  slimemode:
+    description: Turns you into a sticky slime ;)
